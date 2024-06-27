@@ -14,12 +14,10 @@ Current
 - Akshith Gunasekaran (PhD)
 - Gabriel Ritter (PhD)
 - Leni Halaapiapi (PhD)
-- Ashwanth Kuppusamy (MS)
-- Atharva Deshpande (MS)
-- Avani Sathe (MS)
 - Casey Colley (MS)
-- Juily Deshpande (MS)
 - Radhika Gupta (MS)
+- Ashwanth Kuppusamy (MS)
+- Dharun Narayanan Lakshminarayanan Komethagavelu (MS)
 
 Previous
 
@@ -30,3 +28,6 @@ Previous
 - Rebecca Joshua (MS)
 - Brandon Ellis (MS)
 - Matt Jansen (MS)
+- Atharva Deshpande (MS)
+- Juily Deshpande (MS)
+- Avani Sathe (MS)
